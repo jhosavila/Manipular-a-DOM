@@ -1,0 +1,48 @@
+body{
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+.mensagem1 {
+    font-size: 18px;
+    color: #6a0094;
+  }
+  
+  .mensagem2 {
+    font-size: 36px;
+    color: whitesmoke;
+  }
+  
+  button {
+    padding: 20px;
+    font-size: 26px;
+    cursor: pointer;
+    background-color: #8a05be;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #7a02a4;
+  }
+  
+  button:active {
+    background-color: #6a0094;
+  }
+  
+  footer {
+    margin-top: 45px;
+  }
